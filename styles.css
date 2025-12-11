@@ -149,7 +149,7 @@ a:hover {
 }
 
 .main-nav a.active {
-    color: #000;
+    color: #0A4DA2;
 }
 
 .main-nav a::after {
@@ -159,7 +159,7 @@ a:hover {
     left: 0;
     width: 0;
     height: 2px;
-    background-color: #000;
+    background-color: #0A4DA2;
     transition: var(--transition);
 }
 
